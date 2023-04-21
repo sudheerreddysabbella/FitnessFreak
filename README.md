@@ -47,12 +47,17 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 <h4>TOOLS :</h4>
 <li>GITHUB</li>
 
+<h2>Website Link</h2>
+<a href="https://fitness-freak-bice.vercel.app/">Link-1</a>
+<a href="https://fitness-freak-sudheeerreddysabbella.vercel.app/">Link-2</a>
+<a href="https://fitness-freak-git-main-sudheeerreddysabbella.vercel.app/">Link-3</a>
+
 <h2>Contributers</h2>
   <li>
     <ul>P.Karun Raj - <a href="https://github.com/karunraj07">GITHUB</a></ul></li>
   <li>
-    <ul>S.V.V.Satya Narayana Reddy - <a href="https://github.com/sudheerreddysabbella">GITHUB</a></ul></li>
+    <ul>S.V.V.SatyaNarayana Reddy - <a href="https://github.com/sudheerreddysabbella">GITHUB</a></ul></li>
   <li>
     <ul>V.Sai Nivas - <a href="https://github.com/sainivasvinnakota">GITHUB</a></ul></li>
   <li>
-    <ul>S.Jaya Sree Varma- <a href="https://github.com/Jayasreevarma">GITHUB</a></ul></li>
+    <ul>S.JayaSree Varma- <a href="https://github.com/Jayasreevarma">GITHUB</a></ul></li>
